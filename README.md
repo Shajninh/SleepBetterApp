@@ -11,6 +11,6 @@ Sleep Cycle Calculator is a simple and effective tool that helps you optimize yo
 - 📚 Provides tips on why sleep cycles matter
 
 # To run
-git clone https://github.com/Shajninh/SleepBetterApp.git
-cd SleepBetterApp
+- git clone https://github.com/Shajninh/SleepBetterApp.git
+- cd SleepBetterApp
 
